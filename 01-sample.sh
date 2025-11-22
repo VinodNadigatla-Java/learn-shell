@@ -2,5 +2,5 @@ ls -l
 
 pwd
 
-dnf ist installed
+dnf list installed
 
